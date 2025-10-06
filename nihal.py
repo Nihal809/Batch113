@@ -65,14 +65,18 @@
 # for i in range(1,11):
 #     print(f"{i}x{a}={i*a}")
 
-class A:
-    x= 12 
-    y= 23
+# class A:
+#     x= 12 
+#     y= 23
 
-    def _init_(self, name,age):
+#     def _init_(self, name,age):
         
-        self.a= name
-        self.b= age 
-my_class= A("rahim", 23)
-print(my_class.a)
+#         self.a= name
+#         self.b= age 
+
+# my_class= A("rahim", 23)
+# print(my_class.a)
+
+
+print("hello")
 
